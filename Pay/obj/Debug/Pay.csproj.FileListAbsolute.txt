@@ -1,0 +1,11 @@
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\bin\Debug\Pay.exe.config
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\bin\Debug\Pay.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\bin\Debug\Pay.pdb
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.csprojResolveAssemblyReference.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.Form1.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.Properties.Resources.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.csproj.GenerateResource.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.csproj.CoreCompileInputs.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.pdb
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Debug\Pay.Form2.resources

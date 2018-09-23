@@ -1,0 +1,10 @@
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\bin\Release\Pay.exe.config
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\bin\Release\Pay.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\bin\Release\Pay.pdb
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Release\Pay.Form1.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Release\Pay.Form2.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Release\Pay.Properties.Resources.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Release\Pay.csproj.GenerateResource.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Release\Pay.csproj.CoreCompileInputs.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Release\Pay.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Pay\Pay\obj\Release\Pay.pdb
